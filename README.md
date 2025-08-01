@@ -16,6 +16,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](www.linkedin.com/in/vuzoukwu)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:viktor@vikuzoukwu.com)
 
+## 🏗️ Framework Architecture
+
+![Framework Architecture](docs/images/framework architecture.png)
+
+*Comprehensive view of the AI Ethics & Cybersecurity Framework components and their interactions*
 ## 🎯 Project Impact
 
 > **Bridging the critical gap between AI innovation and ethical security practices**
