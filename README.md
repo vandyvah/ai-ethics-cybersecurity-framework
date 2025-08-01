@@ -6,15 +6,13 @@
 [![Last Commit](https://img.shields.io/github/last-commit/vandyvah/ai-ethics-cybersecurity-framework.svg)](https://github.com/vandyvah/ai-ethics-cybersecurity-framework/commits/main)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-> A comprehensive framework for implementing ethical AI practices while maintaining robust cybersecurity standards.
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/ai-ethics-cybersecurity-framework.svg)](https://github.com/YOUR_USERNAME/ai-ethics-cybersecurity-framework/stargazers)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vuzoukwu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](www.linkedin.com/in/vuzoukwu)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:viktor@vikuzoukwu.com)
+
+> A comprehensive framework for implementing ethical AI practices while maintaining robust cybersecurity standards.
 
 ## 🏗️ Framework Architecture
 
