@@ -13,6 +13,12 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:viktor@vikuzoukwu.com)
 
 > A comprehensive framework for implementing ethical AI practices while maintaining robust cybersecurity standards.
+
+## 🏗️ Framework Architecture
+
+![Framework Architecture](docs/images/frameworkarchitecture.png)
+
+*Comprehensive view of the AI Ethics & Cybersecurity Framework components and their interactions*
 ## 🎯 Project Impact
 
 > **Bridging the critical gap between AI innovation and ethical security practices**
@@ -75,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Viktor Uzoukwu** - AI Ethics & Cybersecurity Generalist
+**[Viktor Uzoukwu]** - AI Ethics & Cybersecurity Generalist
 - LinkedIn: [www.linkedin.com/in/vuzoukwu]
 - Email: [Viktor@vikuzoukwu.com]
 
