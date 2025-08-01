@@ -16,7 +16,7 @@
 
 ## 🏗️ Framework Architecture
 
-![Framework Architecture](docs/images/frameworkarchitecture.png)
+![Framework Architecture](frameworkarchitecture.png)
 
 *Comprehensive view of the AI Ethics & Cybersecurity Framework components and their interactions*
 ## 🎯 Project Impact
