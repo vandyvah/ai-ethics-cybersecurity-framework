@@ -1,1 +1,1 @@
-"# Implementation Guide" 
+# Implementation Guide
