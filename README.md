@@ -78,9 +78,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]** - AI Ethics & Cybersecurity Specialist
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+**[Viktor Uzoukwu]** - AI Ethics & Cybersecurity Specialist
+- LinkedIn: [www.linkedin.com/in/vuzoukwu]
+- Email: [Viktor@vikuzoukwu.com]
 
 ---
 ⭐ Star this repository if you found it helpful!
