@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Viktor Uzoukwu]** - AI Ethics & Cybersecurity Generalist
+**Viktor Uzoukwu** - AI Ethics & Cybersecurity Generalist
 - LinkedIn: [www.linkedin.com/in/vuzoukwu]
 - Email: [Viktor@vikuzoukwu.com]
 
